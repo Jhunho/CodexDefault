@@ -71,4 +71,5 @@ A inclusão desse algoritmo amplia a utilidade do modelo, permitindo que os usu�
 
 Melhorias Possíveis:
 
+
 Para melhorar ainda mais a funcionalidade, poderiam ser implementadas técnicas mais avançadas de análise matemática, como a detecção de padrões em expressões matemáticas mais complexas, permitindo respostas mais abrangentes.
