@@ -54,7 +54,9 @@ D
 C
 ​
  , onde A, B, C e D são os valores conhecidos.
+ 
 Implementação no Código Fonte:
+
 No código fornecido, a regra de três é utilizada para resolver problemas matemáticos básicos apresentados pelo usuário. A função correspondente realiza a análise da expressão matemática fornecida, identifica as grandezas proporcionais e calcula o valor desconhecido.
 
 A lógica implementada é capaz de lidar com expressões simples, incluindo adição, subtração, multiplicação e divisão. A função processa a expressão matemática fornecida, identifica as grandezas relacionadas e calcula o valor desconhecido de acordo com a regra de três.
