@@ -70,4 +70,5 @@ Aplicações Práticas:
 A inclusão desse algoritmo amplia a utilidade do modelo, permitindo que os usuários realizem cálculos matemáticos simples. Isso torna o modelo mais versátil, indo além das respostas baseadas em linguagem natural para incluir resolução de problemas matemáticos.
 
 Melhorias Possíveis:
+
 Para melhorar ainda mais a funcionalidade, poderiam ser implementadas técnicas mais avançadas de análise matemática, como a detecção de padrões em expressões matemáticas mais complexas, permitindo respostas mais abrangentes.
