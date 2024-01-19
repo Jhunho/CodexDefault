@@ -3,13 +3,14 @@ DESCRIÇÃO:
 
 Este projeto serve como uma estrutura inicial para um modelo de linguagem com foco em aprendizado supervisionado, não supervisionado e reforçado. Oferece uma "blueprint" para começar um projeto de processamento de linguagem natural com flexibilidade para expansões futuras.
 
-Funcionalidades Principais:
-Aprendizado Supervisionado:
+Funcionalidades Principais: Aprendizado Supervisionado
 
 A função train_supervised_model permite treinar o modelo com base em dados de treinamento, mapeando perguntas conhecidas para respostas correspondentes.
+
 Aprendizado Não Supervisionado (Clusterização):
 
 A função unsupervised_learning incorpora técnicas de clusterização para agrupar perguntas semelhantes, oferecendo uma abordagem de aprendizado não supervisionado.
+
 Aprendizado Reforçado:
 
 A função reinforcement_learning simula o aprendizado reforçado, atualizando o modelo com base na eficácia de suas respostas em interações anteriores.
@@ -19,7 +20,9 @@ A função process_input realiza a análise da entrada do usuário, incluindo to
 Interação com o Usuário:
 
 A interação com o usuário é facilitada pela função input. Os usuários fornecem perguntas, e o modelo responde de acordo com as estratégias de aprendizado incorporadas.
+
 Como Usar:
+
 Clone o repositório.
 Execute o script Python tg.py.
 Interaja com o modelo fornecendo perguntas e observando as respostas geradas.
@@ -32,6 +35,7 @@ ALGORITMO PARA REGRA DE TRÊS NO CÓDIGO FONTE:
 O algoritmo da regra de três presente neste código é uma abordagem matemática que visa resolver proporções e encontrar valores desconhecidos com base em relações proporcionais conhecidas. A regra de três é uma ferramenta útil em diversas disciplinas, incluindo matemática, física, química e muitas outras.
 
 Funcionamento:
+
 Identificação das Relações Proporcionais:
 
 O algoritmo da regra de três inicia identificando duas grandezas proporcionais e seus respectivos valores conhecidos. Por exemplo, na expressão "Se A está para B, assim C está para D", A e B formam uma relação proporcional, e C e D formam outra.
@@ -62,6 +66,8 @@ No código fornecido, a regra de três é utilizada para resolver problemas mate
 A lógica implementada é capaz de lidar com expressões simples, incluindo adição, subtração, multiplicação e divisão. A função processa a expressão matemática fornecida, identifica as grandezas relacionadas e calcula o valor desconhecido de acordo com a regra de três.
 
 Aplicações Práticas:
+
 A inclusão desse algoritmo amplia a utilidade do modelo, permitindo que os usuários realizem cálculos matemáticos simples. Isso torna o modelo mais versátil, indo além das respostas baseadas em linguagem natural para incluir resolução de problemas matemáticos.
+
 Melhorias Possíveis:
 Para melhorar ainda mais a funcionalidade, poderiam ser implementadas técnicas mais avançadas de análise matemática, como a detecção de padrões em expressões matemáticas mais complexas, permitindo respostas mais abrangentes.
